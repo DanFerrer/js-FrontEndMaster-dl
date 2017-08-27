@@ -1,0 +1,25 @@
+{
+  "name": "js-FrontEndMaster-dl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "clear": "0.0.1",
+    "clui": "^0.3.6",
+    "figlet": "^1.2.0",
+    "inquirer": "^3.2.2",
+    "minimist": "^1.2.0",
+    "preferences": "^0.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "selenium-webdriver": "^3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
